@@ -1,0 +1,295 @@
+.login {
+  background-color: #fff2d0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div {
+  background-color: #fff2d0;
+  width: 430px;
+  height: 932px;
+  position: relative;
+}
+
+.login .text-wrapper {
+  position: absolute;
+  top: 83px;
+  left: 25px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #e16565;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .new-user-create-an {
+  position: absolute;
+  top: 127px;
+  left: 28px;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login .span {
+  color: #e16565;
+}
+
+.login .text-wrapper-2 {
+  color: #000000;
+}
+
+.login .text-wrapper-3 {
+  color: #4398d6;
+}
+
+.login .email {
+  position: absolute;
+  width: 387px;
+  height: 38px;
+  top: 289px;
+  left: 23px;
+}
+
+.login .overlap-group {
+  width: 385px;
+  height: 38px;
+  background-color: #fff2d0;
+  box-shadow: 0px 4px 4px #00000040;
+  position: relative;
+  border-radius: 5px;
+  border: none;
+  font-family: "Lato-Light", Helvetica;
+  font-weight: 300;
+  color: #e16565;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  padding-left: 11px;
+}
+
+.login .password {
+  position: absolute;
+  width: 387px;
+  height: 38px;
+  top: 358px;
+  left: 23px;
+}
+
+.login .overlap {
+  width: 385px;
+  height: 38px;
+  background-color: #fff2d0;
+  box-shadow: 0px 4px 4px #00000040;
+  position: relative;
+  border-radius: 5px;
+}
+
+.login .text-wrapper-4 {
+  position: absolute;
+  width: 66px;
+  top: 7px;
+  left: 11px;
+  font-family: "Lato-Light", Helvetica;
+  font-weight: 300;
+  color: #e16565;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .fluent-eye-hide {
+  position: absolute;
+  width: 22px;
+  height: 23px;
+  top: 7px;
+  left: 350px;
+}
+
+.login .continue {
+  position: absolute;
+  width: 115px;
+  height: 29px;
+  top: 437px;
+  left: 295px;
+}
+
+.login .div-wrapper {
+  width: 113px;
+  height: 29px;
+  background-color: #e16565;
+  box-shadow: 0px 4px 4px #f2bbbb;
+  position: relative;
+  border-radius: 5px;
+}
+
+.login .text-wrapper-5 {
+  position: absolute;
+  width: 61px;
+  top: 5px;
+  left: 26px;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #fff2d0;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login .or {
+  position: absolute;
+  width: 107px;
+  height: 15px;
+  top: 552px;
+  left: 163px;
+}
+
+.login .text-wrapper-6 {
+  position: absolute;
+  width: 14px;
+  top: 0;
+  left: 45px;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .line {
+  left: 0;
+  position: absolute;
+  width: 41px;
+  height: 1px;
+  top: 6px;
+  object-fit: cover;
+}
+
+.login .img {
+  left: 64px;
+  position: absolute;
+  width: 41px;
+  height: 1px;
+  top: 6px;
+  object-fit: cover;
+}
+
+.login .google {
+  position: absolute;
+  width: 382px;
+  height: 36px;
+  top: 582px;
+  left: 25px;
+}
+
+.login .overlap-2 {
+  position: relative;
+  width: 380px;
+  height: 36px;
+  background-color: #fff2d0;
+  border-radius: 10px;
+  border: 0.4px solid;
+  border-color: #e16565;
+}
+
+.login .text-wrapper-7 {
+  width: 142px;
+  top: 9px;
+  left: 125px;
+  position: absolute;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .flat-color-icons {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 9px;
+  left: 97px;
+}
+
+.login .facebook {
+  top: 633px;
+  position: absolute;
+  width: 382px;
+  height: 36px;
+  left: 25px;
+}
+
+.login .text-wrapper-8 {
+  width: 160px;
+  top: 8px;
+  left: 118px;
+  position: absolute;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .icon-facebook {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 8px;
+  left: 93px;
+}
+
+.login .overlap-wrapper {
+  top: 684px;
+  position: absolute;
+  width: 382px;
+  height: 36px;
+  left: 25px;
+}
+
+.login .text-wrapper-9 {
+  width: 160px;
+  top: 8px;
+  left: 125px;
+  position: absolute;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .icon-facebook-v {
+  position: absolute;
+  width: 16px;
+  height: 19px;
+  top: 7px;
+  left: 100px;
+}
+
+.login .p {
+  position: absolute;
+  top: 750px;
+  left: 34px;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
