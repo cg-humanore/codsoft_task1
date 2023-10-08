@@ -1,0 +1,119 @@
+.intro {
+  background-color: #e16565;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.intro .overlap-group-wrapper {
+  background-color: #e16565;
+  width: 430px;
+  height: 932px;
+}
+
+.intro .overlap-group {
+  position: relative;
+  height: 932px;
+  background-image: url(./img/unsplash-yxz8pkzfrie.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.intro .welcome-to-ELEGANCE {
+  position: absolute;
+  width: 382px;
+  top: 78px;
+  left: 23px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 400;
+  color: #f4ecd7;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.intro .text-wrapper {
+  font-weight: 700;
+}
+
+.intro .span {
+  font-family: "Big Shoulders Stencil Text-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 64px;
+}
+
+.intro .overlap {
+  position: absolute;
+  width: 228px;
+  height: 50px;
+  top: 564px;
+  left: 101px;
+  border-radius: 5px;
+}
+
+.intro .rectangle {
+  position: absolute;
+  width: 228px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #fff2d0;
+  border-radius: 5px;
+}
+
+.intro .div {
+  width: 124px;
+  left: 52px;
+  position: absolute;
+  top: 5px;
+  font-family: "Elsie-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.intro .overlap-2 {
+  position: absolute;
+  width: 228px;
+  height: 50px;
+  top: 639px;
+  left: 101px;
+  border-radius: 5px;
+}
+
+.intro .text-wrapper-2 {
+  left: 65px;
+  position: absolute;
+  top: 5px;
+  font-family: "Elsie-Regular", Helvetica;
+  font-weight: 400;
+  color: #e16565;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.intro .frame {
+  position: absolute;
+  width: 253px;
+  height: 49px;
+  top: 282px;
+  left: 23px;
+}
+
+.intro .p {
+  position: absolute;
+  top: 455px;
+  left: 23px;
+  font-family: "Lato-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #fff2d0;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
