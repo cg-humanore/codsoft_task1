@@ -1,2 +1,2 @@
-# codsoft_task2
-This is my task 2 of Codsoft internship.
+# codsoft_task1
+This is my task 1 of Codsoft internship.
